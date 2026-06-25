@@ -106,7 +106,6 @@ The table below summarizes the performance of the $k\text{NN}$ classifier using 
 stroke-prediction-analysis/
 ├── README.md                  # Detailed analytical report
 ├── requirements.txt           # Python dependencies
-├── .gitignore                 # Excluded temporary/system files
 ├── data/                      # Dataset folder
 │   ├── healthcare-dataset-stroke-data.csv
 │   ├── categorical_features.csv
