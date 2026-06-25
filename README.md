@@ -119,8 +119,7 @@ stroke-prediction-analysis/
 │   ├── Feature_Selection.py   # Selected features evaluation
 │   ├── PCA.py                 # Principal Component Analysis
 │   └── LDA.py                 # Linear Discriminant Analysis
-└── docs/                      # Original Project Documentation
-    └── Project_Report.pdf     # Full report in PDF format
+
 ```
 
 ---
